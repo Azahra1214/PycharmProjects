@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="467215a8-9de7-4c46-a3b9-6a34f84adbe1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonProject1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonProject1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="467215a8-9de7-4c46-a3b9-6a34f84adbe1" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/pythonProject1/first_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject1/first_program.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,20 +24,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.first_program.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.first_program.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Space Code Reviews" show_stripe_button="false" />
@@ -50,9 +46,9 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" show_stripe_button="false" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50114155" visible="true" weight="0.1668207" />
-      <window_info id="Commit" order="1" weight="0.25" />
-      <window_info active="true" id="Structure" order="2" sideWeight="0.49885845" side_tool="true" visible="true" weight="0.1668207" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50114155" weight="0.1668207" />
+      <window_info active="true" id="Commit" order="1" sideWeight="0.81164384" visible="true" weight="0.1668207" />
+      <window_info id="Structure" order="2" sideWeight="0.18835616" side_tool="true" weight="0.1668207" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Debug" visible="true" weight="0.3013245" />
@@ -60,10 +56,10 @@
       <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
       <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" weight="0.30105105" />
+      <window_info active="true" anchor="bottom" id="Run" visible="true" weight="0.32960528" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32960528" />
       <window_info anchor="bottom" id="Problems View" order="1" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.32960528" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32960528" />
       <window_info anchor="bottom" id="Services" order="3" />
       <window_info anchor="right" id="Plots" show_stripe_button="false" />
       <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
@@ -92,8 +88,25 @@
       <workItem from="1702908602441" duration="479000" />
       <workItem from="1702910008955" duration="777000" />
       <workItem from="1703004000130" duration="106000" />
-      <workItem from="1703004144790" duration="1129000" />
+      <workItem from="1703004144790" duration="2776000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1703006964453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703006964455</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1703006998224</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703006998224</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +123,11 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PycharmProjects$first_program.coverage" NAME="first_program Coverage Results" MODIFIED="1702968254315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$first_program.coverage" NAME="first_program Coverage Results" MODIFIED="1703009962031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject1" />
   </component>
 </project>

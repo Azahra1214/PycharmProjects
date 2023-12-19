@@ -27,3 +27,5 @@ itemno=555
 price=50
 my_order="i want {} pieces of item{} for {} dollers"
 print(my_order.format(quantity,itemno,price))
+#boolean operator
+print (9<10)
