@@ -310,5 +310,71 @@ else:
       print("b is greater than a")
   else:
       print("b is not greater than a")
+#Loop
+a = 33
+b = 200
+if b > a:
+  print("b is greater than a")
+
+a = 33
+b = 33
+if b > a:
+  print("b is greater than a")
+elif a == b:
+  print("a and b are equal")
+a = 2
+b = 330
+print("A") if a > b else print("B")
+x = 41
+
+if x > 10:
+  print("Above ten,")
+  if x > 20:
+    print("and also above 20!")
+  else:
+    print("but not above 20.")
+a = 33
+b = 200
+
+if b > a:
+  pass
+
+# having an empty if statement like this, would raise an error without the pass statement
+if a==b and c==d:
+    print("hello")
+#for Loop in python
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  print(x)
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  print(x)
+  if x == "banana":
+    break
+fruits=["apple", "banana","cherry"]
+for x in fruits:
+    if x=="banana":
+        break
+    print (x)
+
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  if x == "banana":
+    continue
+  print(x)
+for x in range(6):
+  print(x)
+for x in range(2, 30, 3):
+  print(x)
+
+#for loop
+for x in range(6):
+  if x == 3: break
+  print(x)
+else:
+  print("Finally finished!")
+
+
+
 
 
